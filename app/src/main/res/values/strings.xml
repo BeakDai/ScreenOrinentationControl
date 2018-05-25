@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Screen Orientation Control</string>
+    <string name="choose_orientation">Choose orientation!</string>
+    <string-array name="screen_orientation">
+        <item>LANDSCAPE</item>
+        <item>PORTRAIT</item>
+        <item>USER</item>
+        <item>BEHIND</item>
+        <item>SENSOR</item>
+        <item>NOSENSOR</item>
+        <item>SENSOR_LANDSCAPE</item>
+        <item>SENSOR_PORTRAIT</item>
+        <item>REVERSE_LANDSCAPE</item>
+        <item>REVERSE_PORTRAIT</item>
+        <item>FULL_SENSOR</item>
+        <item>USER_LANDSCAPE</item>
+        <item>USER_PORTRAIT</item>
+    </string-array>
+</resources>
